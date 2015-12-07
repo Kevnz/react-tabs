@@ -7,7 +7,8 @@
     "test": "rackt test --single-run --browsers Firefox",
     "start": "rackt server",
     "build": "rackt build",
-    "release": "rackt release"
+    "release": "rackt release",
+    "publish" "rackt pages"
   },
   "repository": {
     "type": "git",
