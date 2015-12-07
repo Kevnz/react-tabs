@@ -23,7 +23,10 @@
     "react",
     "tabs",
     "a11y",
-    "react-component"
+    "react-component",
+    "isomorphic",
+    "universal",
+    "server-side"
   ],
   "peerDependencies": {
     "react": "^0.14.0",
